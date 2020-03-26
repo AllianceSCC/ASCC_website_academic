@@ -3,7 +3,7 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -22,7 +22,7 @@ height = ""
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  #overlay_color = "#666"  # An HTML color value.
+  #overlay_color = "#d4"  # An HTML color value.
   #overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -39,16 +39,16 @@ height = ""
   content = "'Under [Dr. Hagan's] mentorship, I learned how to more effectively conduct these types of analyses, produce reproducible code, and better utilize version control tools such as GitHub. Ada also often made several resources tailored to women of color, LGBTQ+, and Black students more accessible to me, and encouraged me to utilize them.' - Mia G."
   align = "center"
 
-  overlay_color = "#555"  # An HTML color value.
+  overlay_color = "#000000"  # An HTML color value.
  #overlay_img = ""  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   #title = "Right"
-  #content = "I am right aligned :smile:"
+  content = "testing"
   #align = "center"
 
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = "#d40055"  # An HTML color value.
   #overlay_img = ""  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++

@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Alliance SciComm & Consulting"
+title = "Make Any Science Accessible"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "full_logo.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,11 +17,11 @@ hero_media = "hero-academic.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "#d4aa00"
+  color = "#fff"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = ""
+  gradient_end = ""
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -37,13 +37,13 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
+  url = "https://calendly.com/alliance_scc/free-consult"
   label = "Get Scheduled"
   icon_pack = "fas"
   icon = "calendar"
   
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
+  url = "for_scientists"
   label = "View Services"
 
 # Note. An optional note to show underneath the links.
@@ -51,6 +51,4 @@ hero_media = "hero-academic.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Fastest Way to Ensure Your Audience _GETS_ Your Science**
-
-Make Any Science Accessible
+Tell us how we can help!

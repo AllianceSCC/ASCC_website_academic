@@ -5,13 +5,13 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#d4aa00" #goldenrod
+primary = "#d40055" #goldenrod
 
 # Menu
 menu_primary = "#fff" #white
-menu_text = "#000000" #black
-menu_text_active = "#d4aa00" #goldenrod
-menu_title = "#000000" #black
+menu_text = "#d4aa00" #black
+menu_text_active = "#d40055" #goldenrod
+menu_title = "#d4aa00" #black
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)" #white
