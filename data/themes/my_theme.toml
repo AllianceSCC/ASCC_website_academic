@@ -1,0 +1,18 @@
+# Theme metadata
+name = "my_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#d4aa00" #goldenrod
+
+# Menu
+menu_primary = "#fff" #white
+menu_text = "#000000" #black
+menu_text_active = "#d4aa00" #goldenrod
+menu_title = "#000000" #black
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)" #white
+home_section_even = "rgb(212,170,0)" #goldenrod
