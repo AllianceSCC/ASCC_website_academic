@@ -17,7 +17,7 @@ header:
 
 (Including: graduate program applications, job application packets, manuscripts, dissertations, & more)
 
-### Editing:		
+### Revising and Editing:		
 
 * Structure/Content --- Early in the writing/brainstorming process and need help with deciding what should be included, the organization of an early draft, or can't _quite_ put your finger on what's missing? Structure and content editing comes in at the beginning of your writing process. We can help you brainstorm or outline that early draft before it exists and then edit your writing to identify missing information or help with the overall organization. **Use content and structure editing to ensure concise writing with all the information your readers need, and nothing they don't.**
 
@@ -52,7 +52,7 @@ header:
 
 ## Support for: Grants		
 
-### Editing: 
+### Revising and Editing: 
 * Structure/Content ---  Use content and structure editing to ensure concise writing with all the information your readers need, and nothing they don't.
 
 * Copy editing --- Use copy editing to drop your word count and catch those mistakes that will distract the reader from your writing.
@@ -71,4 +71,4 @@ header:
 
 -----
 
-Are you a trainee & member of a marginalized group? [See our services dedicated]( {{< relref "for_HURM.md" >}}) to you.
+Are you a womxn trainee & member of a marginalized group? [See our services dedicated]( {{< relref "for_HURM.md" >}}) to you.

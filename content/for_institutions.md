@@ -12,8 +12,10 @@ header:
   image: ""
 ---
 
-## Workshops:	
 
+## Workshops & Webinars:	
+
+* "How to Write a Review Paper" --- A one hour workshop to break down the intimidating project of a review paper into manageable pieces. Participants will learn tools to facilitate their writing process and to revise a first draft for their advisor.
 
 * "Telling Your Science as a Story" --- A two hour workshop to learn the basics of adapting narrative storytelling to your scientific story. By the end, participants will have learned the And/But/Therefore (ABT) narrative structure and identified the most compelling story line for their science.
 

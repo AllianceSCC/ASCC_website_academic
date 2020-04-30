@@ -47,8 +47,8 @@ hero_media = "full_logo.png"
   label = "View Services"
 
 # Note. An optional note to show underneath the links.
-# [cta_note]
-#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+ [cta_note]
+  label = '<a href="for_institutions">I need workshops and/or consulting<!-- V --></a>'
 +++
 
-Tell us how we can help!
+Are you a scientist looking for help with an individual or lab-scale project? 

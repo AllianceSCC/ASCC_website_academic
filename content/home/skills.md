@@ -18,18 +18,36 @@ subtitle = ""
   icon = "edit"
   icon_pack = "far"
   name = "Editing"
-  description = "Minimize typos and confused readers by letting us edit your grant proposals, manuscripts, and applications."
+  description = "Ensure concise writing without typos."
+  
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Data Analysis"
+  description = "Get a documented and reproducible method for cleaning and visualizing your data."  
+  
+[[feature]]
+  icon = "clipboard-list"
+  icon_pack = "fas"
+  name = "Presentation Feedback"
+  description = "Feedback for content and layout on practice talks, slides, and posters."
+  
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Workshops"
+  description = "Any topic from scientific narrative to introductory programming to diversity and inclusion."
   
 [[feature]]
   icon = "universal-access"
   icon_pack = "fas"
   name = "Consulting"
-  description = "We can help make your science accessible to broader audiences."  
+  description = "Grant outreach, inclusive research design, transitioning to reproducible research, etc." 
   
-[[feature]]
+[[feature]]  
   icon = "balance-scale-left"
-  icon_pack = "fas"
-  name = "Equity & Inclusion"
-  description = "Let us help identify barriers to marginalized groups and propose solutions."
+  icon_pack = "fas"  
+  name = "Trainee Support"
+  description = "_Pro bono_ editing and feedback services for eligible womxn trainees. <a href='for_hurm' >Learn more here.</a>" 
 
 +++

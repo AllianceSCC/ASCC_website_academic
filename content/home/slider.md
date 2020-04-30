@@ -7,7 +7,7 @@ weight = 20  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 5000
+interval = 7000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   #title = "Left"
-  content = "'Under [Dr. Hagan's] mentorship, I learned how to more effectively conduct these types of analyses, produce reproducible code, and better utilize version control tools such as GitHub. Ada also often made several resources tailored to women of color, LGBTQ+, and Black students more accessible to me, and encouraged me to utilize them.' - Mia G."
+  content = "'Under [Dr. Hagan's] mentorship, I learned how to more effectively conduct analyses [in R], produce reproducible code, and better utilize version control tools such as GitHub. Ada also often made several resources tailored to women of color, LGBTQ+, and Black students more accessible to me, and encouraged me to utilize them.' - Mia G."
   align = "center"
 
   overlay_color = "#000000"  # An HTML color value.
@@ -45,8 +45,8 @@ height = ""
 
 [[item]]
   #title = "Right"
-  content = "testing"
-  #align = "center"
+  content = " 'I consulted Alliance during the planning stages of a new support initiative for postdocs. Alliance helped me synthesize our key priorities into a strategic mission statement for the launch of our organization. I look forward to working with them again!' - Ari K."
+  align = "center"
 
   overlay_color = "#d40055"  # An HTML color value.
   #overlay_img = ""  # Image path relative to your `static/img/` folder.
