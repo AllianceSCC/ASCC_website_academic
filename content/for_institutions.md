@@ -27,6 +27,8 @@ header:
 	
 **Don't see the workshop or training that you're looking for?** Let us design one to fit your needs.
 
+All webinar participants must adhere to our [Webinar Code of Conduct](http://alliancescicommconsulting.com/files/Webinar_Code_of_Conduct.pdf)
+
 ### [Schedule a free 15 min consultation](https://calendly.com/alliance_scc/free-consult)
 
 ----
