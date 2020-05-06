@@ -15,7 +15,7 @@ header:
 
 ## Support for: Writing 
 
-(Including: graduate program applications, job application packets, manuscripts, dissertations, & more)
+(Including: manuscripts, dissertations, graduate program applications, job application packets, & more)
 
 ### Revising and Editing:		
 
@@ -23,13 +23,13 @@ header:
 
 * Copy editing	--- In the late stages of writing and need fresh eyes to check for grammar and typos? Copy editing gets you a fresh pair of eyes to make sure that each paragraph looks, and reads, its best. **Use copyediting to drop your wordcount and catch those mistakes that will distract the reader from your writing.**
 
-* Formatting --- Got a finished product that reads just how you want but doesn't look how they want it to? Use our formatting services to put your words in their specified format
+### [Submit your draft](https://docs.google.com/forms/d/e/1FAIpQLSdoj5QbHZk3iYhxSnj5PtyJyEoHn882cL-WA45Sp-wBIoB4Aw/viewform?usp=sf_link)
 
 ### Data analysis & visualization:
 
 * Reproducible data analysis --- Need help analyzing that data and/or making the right graphics? Let us help by creating an easy to use and repeatable method of cleaning and visualizing your data.
 
-### [Schedule your FREE 15 min Consultation](https://calendly.com/alliance_scc/free-consult)
+### [Schedule a FREE 30 min consultation](https://calendly.com/alliance_scc/free-consult)
 
 
 -----
@@ -44,7 +44,7 @@ header:
 
 * Talks --- Need a practice audience prepared to give meaningful feedback on your upcoming presentation or job talk? We will watch your presentation and provide feedback on everything from substance to style.
 
-### [Schedule your FREE 15 min Consultation](https://calendly.com/alliance_scc/free-consult)
+### [Schedule your presentation practice and consult](https://calendly.com/alliance_scc/presentation-practice-and-feedback)
 
 
 -----
@@ -57,6 +57,8 @@ header:
 
 * Copy editing --- Use copy editing to drop your word count and catch those mistakes that will distract the reader from your writing.
 
+### [Submit your draft here](https://docs.google.com/forms/d/e/1FAIpQLSdoj5QbHZk3iYhxSnj5PtyJyEoHn882cL-WA45Sp-wBIoB4Aw/viewform?usp=sf_link)
+
 
 ### Consulting:		
 * Research	summary (~2k words)	--- Interested in expanding your research into a new direction but need a handle on the literature? Use our research summary services to dig through the literature and write a brief (~2,000 word) summary of the field. [Not for use in published manuscripts without prior agreements]
@@ -67,7 +69,7 @@ header:
 
 * Reproducible Research --- Let us help you convert your data analysis and manuscript writing process into straight-forward, collaborative workflows to improve repeatable data cleaning, analysis and visualization that can be easily shared and documented.
 
-### [Schedule your FREE 15 min Consultation](https://calendly.com/alliance_scc/free-consult)
+### [Schedule a FREE 30 min consultation](https://calendly.com/alliance_scc/free-consult)
 
 -----
 

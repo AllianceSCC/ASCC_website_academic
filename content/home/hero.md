@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Make Any Science Accessible"
+title = "Make Your Science More Accessible"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "full_logo.png"
@@ -37,18 +37,18 @@ hero_media = "full_logo.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://calendly.com/alliance_scc/free-consult"
-  label = "Get Scheduled"
-  icon_pack = "fas"
-  icon = "calendar"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLSdoj5QbHZk3iYhxSnj5PtyJyEoHn882cL-WA45Sp-wBIoB4Aw/viewform?usp=sf_link"
+  label = "Submit your draft"
+  icon_pack = "far"
+  icon = "edit"
   
 [cta_alt]
   url = "for_scientists"
-  label = "View Services"
+  label = "More Services"
 
 # Note. An optional note to show underneath the links.
  [cta_note]
   label = '<a href="for_institutions">I need workshops and/or consulting<!-- V --></a>'
 +++
 
-Are you a scientist looking for help with an individual or lab-scale project? 
+Are you a scientist looking for help with a manuscript or grant proposal? 

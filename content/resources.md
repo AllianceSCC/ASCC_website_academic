@@ -9,7 +9,7 @@ title: Resources
 #### Media:
 * YouTube Channel -- Coming Soon
 
-* Writing Tips blog -- Coming Soon
+* [Writing Tips blog](http://alliancescicommconsulting.com/post/)
 
 #### Worksheets:
 * [Choosing a review paper topic](http://alliancescicommconsulting.com/files/Choosing_your_review_topic.pdf)

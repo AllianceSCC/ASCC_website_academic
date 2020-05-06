@@ -29,7 +29,7 @@ header:
 
 All webinar participants must adhere to our [Webinar Code of Conduct](http://alliancescicommconsulting.com/files/Webinar_Code_of_Conduct.pdf)
 
-### [Schedule a free 15 min consultation](https://calendly.com/alliance_scc/free-consult)
+### [Schedule a FREE 30 min consultation](https://calendly.com/alliance_scc/free-consult)
 
 ----
 	
@@ -42,4 +42,4 @@ All webinar participants must adhere to our [Webinar Code of Conduct](http://all
 
 **Need help with a problem not listed?** Let us know! We are equipped to tackle most higher ed projects that require data analysis, multicultural competency, and/or communications expertise.
 
-### [Schedule a free 15 min consultation](https://calendly.com/alliance_scc/free-consult)
+### [Schedule a FREE 30 min consultation](https://calendly.com/alliance_scc/free-consult)

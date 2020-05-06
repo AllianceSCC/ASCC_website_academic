@@ -18,7 +18,7 @@ role: Owner
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a a microbiologist with a passion for making science accessible. I hope to use my background in communications and higher education to help make sciencific concepts more easily understood and make the academy more inclusive to future scientists from all backgrounds.
+bio: I am a microbiologist with a passion for making science accessible. I hope to use my background in communications and higher education to help make sciencific concepts more easily understood and make the academy more inclusive to future scientists from all backgrounds.
 
 interests:
 - Scientific Communication

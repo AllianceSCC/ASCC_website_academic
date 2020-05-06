@@ -18,31 +18,31 @@ subtitle = ""
   icon = "edit"
   icon_pack = "far"
   name = "Editing"
-  description = "Ensure concise writing without typos."
+  description = "Ensure clear, concise writing without typos. [Submit your draft](https://docs.google.com/forms/d/e/1FAIpQLSdoj5QbHZk3iYhxSnj5PtyJyEoHn882cL-WA45Sp-wBIoB4Aw/viewform?usp=sf_link)"
   
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Analysis"
-  description = "Get a documented and reproducible method for cleaning and visualizing your data."  
+  description = "Get a documented and reproducible method for cleaning and visualizing your data. <a href='for_scientists' >Learn more here.</a>"  
   
 [[feature]]
   icon = "clipboard-list"
   icon_pack = "fas"
   name = "Presentation Feedback"
-  description = "Feedback for content and layout on practice talks, slides, and posters."
+  description = "Feedback for content and layout on practice talks, slides, and posters. [Schedule your presentation practice and consult](https://calendly.com/alliance_scc/presentation-practice-and-feedback)"
   
 [[feature]]
   icon = "tools"
   icon_pack = "fas"
   name = "Workshops"
-  description = "Any topic from scientific narrative to introductory programming to diversity and inclusion."
+  description = "Any topic from scientific narrative to introductory programming to diversity and inclusion. <a href='for_institutions' >Learn more here.</a>"
   
 [[feature]]
   icon = "universal-access"
   icon_pack = "fas"
   name = "Consulting"
-  description = "Grant outreach, inclusive research design, transitioning to reproducible research, etc." 
+  description = "Grant outreach, inclusive research design, transitioning to reproducible research, etc. <a href='for_institutions' >Learn more here.</a>" 
   
 [[feature]]  
   icon = "balance-scale-left"
