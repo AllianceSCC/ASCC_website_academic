@@ -12,3 +12,6 @@ header:
   caption: ""
   image: ""
 ---
+***
+[Get Weekly Writing Tips](https://t.co/VQxxRv48vp?amp=1) delivered straight to your inbox.
+***
