@@ -13,5 +13,5 @@ header:
   image: ""
 ---
 ***
-[Get Weekly Writing Tips](https://t.co/VQxxRv48vp?amp=1) delivered straight to your inbox.
+[Get Weekly Writing Tips](https://view.flodesk.com/pages/5eb9574431cbee002611e094) delivered straight to your inbox.
 ***
