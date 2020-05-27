@@ -32,6 +32,89 @@ A curated [list](https://www.notion.so/02cb1499079b47acb7e719fe7b08b6fa?v=f2e66d
 
 An advice thread: {{< tweet 1253763391560265728 >}}
 
+Another jobs account: {{< tweet 1263477146921562112 >}} 
+
+## May 27, 2020
+
+1. {{< tweet 1261432844821413888 >}}
+
+1. {{< tweet 1263124297825935360 >}}
+
+1. {{< tweet 1263683462327754752 >}}
+
+1. {{< tweet 1263947779384020992 >}}
+
+1. {{< tweet 1263857036535779329 >}}
+
+1. {{< tweet 1263970462465318912 >}}
+
+1. {{< tweet 1264821262809018369 >}}
+
+1. {{< tweet 1265042351615025155 >}}
+
+1. [INTERNSHIP Water Quality (In-stream Flow & River Watch Programs)](https://www.indeed.com/viewjob?jk=97d220b61ecee4ab&tk=1e98vc8i334tu001&from=serp&vjs=3): Denver, CO; $15.25 an hour
+
+1. [Intern- Science Writer](https://www.indeed.com/viewjob?cmp=QBS-Learning&t=Intern&jk=0b44846cf8f946a0&sjdu=QwrRXKrqZ3CNX5W-O9jEvbHpMALlnubbOG_y8ZQE8DvZ3ELFxCFlQbngqZIglq9D9n8Zqh_YXes7EO_1p865gjQ2b9Il319ZICwwVIqdchs&tk=1e98uubhl34tu000&adid=301279253&pub=4a1b367933fd867b19b072952f68dceb&vjs=3): New York, NY
+
+1. [Creative Marketing Writer (Chinese Fluency)](https://www.indeed.com/viewjob?cmp=CSOFT-International&t=Creative+Marketing+Writer&jk=337ffec950d24abd&q=science+writer&vjs=3): Boston, MA
+
+1. [Technical Proposal Writer (Consultant)](https://www.indeed.com/viewjob?jk=b1e525e53658815a&tk=1e990hoja34tu000&from=serp&vjs=3): Rockville, MD
+
+1. [Medical Writer](https://www.indeed.com/viewjob?jk=23d42c0eaa47a706&tk=1e990i056p3r3802&from=serp&vjs=3&advn=4972874631828035&adid=254251327&sjdu=i6xVERweJM_pVUvgf-MzuSNjPrzy7_LNnt0n8OvPVhkVgivlJQ-Pz9tTdfSx9c7E): Yardley, PA
+
+1. [Sr. Technical Writer/Editor/ Communication Specialist](https://www.indeed.com/viewjob?jk=6df19c6d9321ecce&q=science+writer&tk=1e990fti634tu000&from=web&vjs=3): Washington, DC 20005; $80,000 - 100,000 a year
+
+1. [Scientific Advisor](https://www.indeed.com/viewjob?jk=bc0bca0d521f801c&tk=1e990d86s34tu001&from=serp&vjs=3):Cambridge, MA
+
+1. [Medical Writer](https://www.indeed.com/viewjob?jk=fc5964cf41b7067e&tk=1e990d86s34tu001&from=serp&vjs=3)
+
+1. [Nonclinical Regulatory Writer](https://www.indeed.com/viewjob?jk=1d0f5286da00d05b&q=science+writer&tk=1e990d86s34tu001&from=web&vjs=3): San Diego, CA
+
+1. [Bioanalytical Report Writer](https://www.indeed.com/viewjob?jk=b0a527f70bf95ab9&q=science+writer&tk=1e990d86s34tu001&from=web&vjs=3):Remote
+
+1. [Technical Writer](https://www.indeed.com/viewjob?jk=4eefd224fd1b940c&tk=1e990d86s34tu001&from=serp&vjs=3)
+
+1. [Senior Clinical Scientist - Oncology](https://www.indeed.com/viewjob?jk=4df19fa1989ef7e6&tk=1e990c36h34tu000&from=serp&vjs=3): Remote
+
+1. [Medical Writer II](https://www.indeed.com/viewjob?jk=f6945ea679ed2728&tk=1e990c36h34tu000&from=serp&vjs=3)
+
+1. [Grant Writer](https://www.indeed.com/viewjob?cmp=Aphios-Corporation&t=Grant+Writer&jk=5e567e2a57816b82&q=science+writer&vjs=3):Woburn, MA; $40 - 50 an hour
+
+1. [Grant Writer / Researcher](https://www.indeed.com/viewjob?jk=4d38c65521284735&q=science+writer&tk=1e990ajoh34tu000&from=web&vjs=3): Provo, UT; Full-time, Part-time
+1. [Lead Proposal Writer, Federal Government Contracts](https://www.indeed.com/viewjob?jk=2acd29f1fa569edd&tk=1e990ajoh34tu000&from=serp&vjs=3): Columbus, OH
+
+1. [SEO Content Writer](https://www.indeed.com/viewjob?jk=fffe1085ebe751e9&tk=1e990ajoh34tu000&from=serp&vjs=3): Fresno, CA
+
+1. [Strategic Content Specialist / Writer](https://www.indeed.com/viewjob?jk=17b71cc4bee2de2c&q=science+writer&tk=1e9908i9l34tu000&from=web&vjs=3): Silver Spring, MD
+
+1. [Promotional Review Editor](https://www.indeed.com/viewjob?jk=a0bc1bdb230a1736&tk=1e9909l9doula800&from=serp&vjs=3&advn=1591925339783298&adid=28941697&sjdu=MjdU-UPGYfQCMXDhbrDw2SU4yKOuUEdEeKeOPbrO5rAu2DPHvofMcFJ-5rITz1aFijYyIB2kr1CFY6-Dr5Mof1QW-FKhed3L75dLDBHf9lfScP3p1vFemnJJTlRwUs_p8MwTp-4sJKd3sBIcbVnhrGwjYE9NNQVe9i8TIP2fVPPbFxM6UZUGlcpVr1_sSwHF): Trenton, NJ
+
+1. [Writer/Editor National Marine Sanctuary Foundation](https://www.indeed.com/viewjob?jk=c972daf3f53b8ff7&tk=1e9908i9l34tu000&from=serp&vjs=3): Silver Spring, MD; $54,000 - 59,000 a year
+
+1. [Proposal Manager](https://www.indeed.com/viewjob?jk=95570a56bc44eb65&tk=1e99099iiotbg800&from=serp&vjs=3&advn=7348793483579140&adid=216017757&sjdu=9QhiCx4cSxBn9MjO_x3EWYORd_VVEIp0J8RWb0u5J0M4yhHAy8799IQuMuIYtmNT3DdIcRAFXEgqbH2ekfZ54cxELAXFojEC7dXP8uUxGPA): Morrisville, NC
+
+1. [Scientific Writer - Manuscript](https://www.indeed.com/viewjob?jk=65f61a4c92071fb3&q=science+writer&tk=1e9908i9l34tu000&from=web&advn=514224521069294&adid=313596252&sjdu=vUz3PJIdpGfygLQXVlxEDjhv1_QcESULUidkSWg8UTTPbyEBseeG9_ctWEiT6hvst6ZNWmdtyE8C3z-N7aM-bgA6Ja2cQpPAU0G4BPOoqjT1cBuyHNPU_I5J3OqC3br4&acatk=1e9908t2chdp7800&pub=4a1b367933fd867b19b072952f68dceb&vjs=3): Gaithersburg, MD
+
+1. [Scientific Writer And Website Developer](https://www.indeed.com/viewjob?cmp=Donors-Cure-Foundation&t=Scientific+Writer+Website+Developer&jk=424e5b785941770a&q=science+writer&vjs=3): Remote; $20 - 50 an hour
+
+1. [Executive Assistant](https://www.indeed.com/viewjob?cmp=The-Marion-Institute,-Inc.&t=Executive+Assistant&jk=54b22035a1b1e421&q=science+writing&vjs=3): Marion, MA; Remote; Part-time
+
+1. [Managing Scientific Editor](https://www.indeed.com/viewjob?jk=201c9a82edda5ecb&tk=1e993ra6s34tu001&from=serp&vjs=3) :Washington, DC
+
+1. [Graduate Program Coordinator](https://www.indeed.com/viewjob?jk=57f5e22e1117197f&tk=1e993ra6s34tu001&from=serp&vjs=3): Seattle, WA; Part-time
+
+1. [Senior Editor](https://www.indeed.com/viewjob?cmp=The-Scientific-Consulting-Group,-Inc.&t=Senior+Editor&jk=c17ec4f20138c158&q=science+editor&vjs=3): Gaithersburg, MD
+
+1. [Assistant Editor](https://www.indeed.com/viewjob?jk=fce49fd77188926e&tk=1e993n62h34tu000&from=serp&vjs=3): New York, NY
+
+1. [Grant Officer, Salt Lake Community College](https://www.indeed.com/viewjob?jk=dc0197e1cbd740e8&tk=1e993h0g834tu000&from=serp&vjs=3): Salt Lake City, UT; Full-time, Part-time
+
+1. [Production Editor](https://www.indeed.com/viewjob?jk=cc02d8d6fa0d0859&q=science+editor&tk=1e993h0g834tu000&from=web&vjs=3): Bloomington, MN
+
+1. [Technical Writer (Contract)](https://www.indeed.com/viewjob?jk=e57da5be66cd27ff&tk=1e9937ll134tu001&from=serp&vjs=3): Washington, DC
+
+1. [Senior Manager Publishing](https://www.indeed.com/viewjob?cmp=ASAM&t=Senior+Manager+Publishing&jk=dd5ba9c591060213&q=science+editor&vjs=3): Rockville, MD; $55,000 - 63,000 a year
+
 ## May 20, 2020
 
 1. {{< tweet 1260288809083613184 >}}
