@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Make Your Science More Accessible"
+title = "Make Science Accessible"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "full_logo.png"
@@ -43,12 +43,12 @@ hero_media = "full_logo.png"
   icon = "edit"
   
 [cta_alt]
-  url = "for_scientists"
+  url = "writing_services"
   label = "More Services"
 
 # Note. An optional note to show underneath the links.
  [cta_note]
-  label = '<a href="for_institutions">I need workshops and/or consulting<!-- V --></a>'
+  label = '<a href="inclusion">I need equity and inclusion workshops and/or consulting<!-- V --></a>'
 +++
 
 Are you a scientist looking for help with a manuscript or grant proposal? 

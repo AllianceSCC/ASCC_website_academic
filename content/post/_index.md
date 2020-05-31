@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Writing Tips
 
 # View.
 #   1 = List

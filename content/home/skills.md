@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Available Services"
 subtitle = ""
@@ -24,7 +24,7 @@ subtitle = ""
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Analysis"
-  description = "Get a documented and reproducible method for cleaning and visualizing your data. <a href='for_scientists' >Learn more here.</a>"  
+  description = "Get a documented and reproducible method for cleaning and visualizing your data. <a href='writing_services' >Learn more here.</a>"  
   
 [[feature]]
   icon = "clipboard-list"
@@ -36,13 +36,13 @@ subtitle = ""
   icon = "tools"
   icon_pack = "fas"
   name = "Workshops"
-  description = "Any topic from scientific narrative to introductory programming to diversity and inclusion. <a href='for_institutions' >Learn more here.</a>"
+  description = "Writing and SciComm topics from scientific narrative to introductory programming. <a href='webinars' >Learn more here.</a>"
   
 [[feature]]
   icon = "universal-access"
   icon_pack = "fas"
-  name = "Consulting"
-  description = "Grant outreach, inclusive research design, transitioning to reproducible research, etc. <a href='for_institutions' >Learn more here.</a>" 
+  name = "Equity & Inclusion"
+  description = "Inclusive research design, anti-racism in the academy workshops, etc. <a href='inclusion' >Learn more here.</a>" 
   
 [[feature]]  
   icon = "balance-scale-left"

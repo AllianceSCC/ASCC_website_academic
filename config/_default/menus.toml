@@ -9,29 +9,19 @@
   weight = 10
 
 [[main]]
-  name = "Writing Tips"
-  url = "post"
+  name = "Writing"
+  url = "writing_services"
   weight = 20
 
 [[main]]
-  name = "For Scientists"
-  url = "for_scientists"
+  name = "Equity & Inclusion"
+  url = "inclusion"
   weight = 30
-
-[[main]]
-  name = "For Institutions"
-  url = "for_institutions"
-  weight = 40
-
-[[main]]
-  name = "Resources"
-  url = "resources"
-  weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

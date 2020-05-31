@@ -9,13 +9,15 @@ title: Resources
 #### Media:
 * YouTube Channel -- Coming Soon
 
-* [Writing Tips blog](http://alliancescicommconsulting.com/post/)
+* [Writing Tips Blog](http://alliancescicommconsulting.com/post/)
+
+* [Job Board](http://alliancescicommconsulting.com/publication/)
 
 #### Worksheets:
 * [Choosing a review paper topic](http://alliancescicommconsulting.com/files/Choosing_your_review_topic.pdf)
 
 * [Making an annotated bibliography](http://alliancescicommconsulting.com/files/Annotated_bibliography.pdf)
 
-* [Revising Checklist](http://alliancescicommconsulting.com/files/revision_checklist.pdf)
+* [Revising checklist](http://alliancescicommconsulting.com/files/revision_checklist.pdf)
 
 
