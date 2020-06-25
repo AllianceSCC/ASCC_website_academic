@@ -28,6 +28,47 @@ image:
 projects: []
 ---
 
+## June 24, 2020
+
+1. {{< tweet 1275529250825596928 >}}
+1. {{< tweet 1273927869584965633 >}}
+1. {{< tweet 1274130339162710016 >}}
+1. {{< tweet 1271019766023667713 >}}
+1. {{< tweet 1273374933087916032 >}}
+1. {{< tweet 1273366852572377088 >}}
+1. {{< tweet 1273182757401718784 >}}
+1. {{< tweet 1273182760207888385 >}}
+1. [Engineering Specification Writer](https://www.indeed.com/m/viewjob?jk=f415355c502b81d0&from=native) - Muscatine, IA
+1. [Technical Writer](https://www.indeed.com/m/viewjob?jk=aad751f075de7e60&from=native) - Princeton, NJ
+1. [Sr Technical Writer](https://www.indeed.com/m/viewjob?jk=0a7ab45767e47756&from=native) - Baltimore, MD
+1. [Documentation/ Technical Writer](https://www.indeed.com/m/viewjob?jk=012c76fbc117e0fa&from=native) - Ogden, UT
+1. [Senior Medical Writer](https://www.indeed.com/m/viewjob?jk=fae13495cc02feae&from=native) -Remote
+1. [Regulatory Medical Writer](https://www.indeed.com/m/viewjob?jk=3ccbf02559a673fe&from=native) -  Research Triangle Park, NC
+1. [Technical Writer/Scientific - II](https://www.indeed.com/m/viewjob?jk=2c7e4ac13b69a232&from=native) - West Point, PA
+1. [Grant Writer](https://www.indeed.com/m/viewjob?jk=d322457d95c096e9&from=native) - Boca Raton, FL
+1. [Technical Writer- Biopharma/Biomedical](https://www.indeed.com/m/viewjob?jk=26a6e51a992ab97b&from=native) - West Point, PA
+1. [Manager, Medical Writer ASR](https://www.indeed.com/m/viewjob?jk=5026d2b63e90c138&from=native) - Jersey City, NJ
+1. [Associate Director, Publications Planning & Scientific/Medical Publications 1. Writer](https://www.indeed.com/m/viewjob?jk=51ee17a6e08024a1&from=native) - Newton, MA
+1. [Technical Writer](https://www.indeed.com/m/viewjob?jk=5230f0c3c480508c&from=native) - North Chesterfield, VA
+1. [Senior Science Writer](https://www.indeed.com/m/viewjob?jk=71ae6aac9328817e&from=native) - Boston, MA
+1. [Bioanalytical Report Writer](https://www.indeed.com/m/viewjob?jk=bf3d307713a1913c&from=native) - Indianapolis, IN
+1. [Scientific Writer * Gene Therapy Regulatory Affairs](https://www.indeed.com/m/viewjob?jk=5923d5467f4f82c8&from=native) - 1. Vienna, VA
+1. [Proposal Writer](https://www.indeed.com/m/viewjob?jk=2818be426c582321&from=native) - Raleigh, NC
+1. [Technical Writer/Editor](https://www.indeed.com/m/viewjob?jk=5fc3ebd3b622b994&from=native) - Arlington, VA
+1. [Entry Medical Writer](https://www.indeed.com/m/viewjob?jk=5bcf560343f9a69c&from=native) - Remote
+1. [Senior Medical Science Liaison](https://www.indeed.com/m/viewjob?jk=e08c32ac668792af&from=native) - Chicago, IL
+1. [Research-Savvy Writer](https://www.indeed.com/m/viewjob?jk=bff6cd45dc15d612&from=native) - Remote
+1. [Medical Writer (1099)](https://www.indeed.com/m/viewjob?jk=cab9c2b2dfeca4ab&from=native) - Silver Spring, MD
+1. [Ophthalmic Writer](https://www.indeed.com/m/viewjob?jk=e09ed041d82ace69&from=native) - Plattsburgh, NY
+1. [Technical Writer II (Manufacturing/Quality)](https://www.indeed.com/m/viewjob?jk=38f3af9167a11937&from=native) - Bridgewater, NJ
+1. [Senior Medical Writer - Contract](https://www.indeed.com/m/viewjob?jk=ccdd001711e172a4&from=native) - Norwood, MA
+1. [Biomedical Science/Health Writer](https://www.indeed.com/m/viewjob?jk=ff1aaad05a8f5e24&from=native) - Silver Spring, MD
+1. [Medical Writer I - Medical Communications](https://www.indeed.com/m/viewjob?jk=dccb5e45ee4c61b4&from=native) - Remote
+1. [Associate Editor-in-Chief](https://www.indeed.com/m/viewjob?jk=cca47566ddcdd516&from=native) - College Park, MD
+1. [Scientific Editor, JCB](https://www.indeed.com/m/viewjob?jk=e8b6dbccb4c98fcb&from=native) - New York, NY
+1. [Editor/Publisher](https://www.indeed.com/m/viewjob?jk=052896cd14a36dc0&from=native) - Sudbury, MA
+
+
 ## June 17, 2020
 
 1. {{< tweet 1272556993727934464 >}}
