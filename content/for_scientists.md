@@ -73,4 +73,4 @@ header:
 
 -----
 
-Are you a womxn trainee & member of a marginalized group? [See our services dedicated]( {{< relref "for_HURM.md" >}}) to you.
+Are you a woman trainee & member of a marginalized group? [See our services dedicated]( {{< relref "for_HURM.md" >}}) to you.

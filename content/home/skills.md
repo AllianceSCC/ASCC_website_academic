@@ -48,6 +48,6 @@ subtitle = ""
   icon = "balance-scale-left"
   icon_pack = "fas"  
   name = "Trainee Support"
-  description = "_Pro bono_ editing and feedback services for eligible womxn trainees. <a href='for_hurm' >Learn more here.</a>" 
+  description = "_Pro bono_ editing and feedback services for eligible women trainees. <a href='for_hurm' >Learn more here.</a>" 
 
 +++
