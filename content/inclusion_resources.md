@@ -6,7 +6,7 @@ title: Resources
 
 ### Alliance SCC Resources for Academic Equity and Inclusion
 
-* [Diversify Digest & Blog](diversifydigest.com)
+* [Diversify Digest & Blog](www.diversifydigest.com)
 
 
 
