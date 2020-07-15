@@ -28,6 +28,102 @@ image:
 projects: []
 ---
 
+July 15:
+
+  **Science Writer**
+1. [Regulatory Affairs Procedural Document Writer](https://www.indeed.com/m/viewjob?jk=dcf98dc527a6381c&from=native) - Santa Monica, CA
+1. [Senior Medical Writer](https://www.indeed.com/m/viewjob?jk=873599235dc0590e&from=native) - New York, NY - neuroscience, hematology, oncology, and/or immunology
+1. [Director/Sr. Director/VP of Preclinical Client Services](https://www.indeed.com/m/viewjob?jk=77cb1cb0f838997e&from=native) - Westminster, CO -  cardiovascular, renal, pulmonary, diabetic complications and/or hepatic disease
+1. [Grant Writer](https://www.indeed.com/m/viewjob?jk=fe04590ace1d0b31&from=native) - Peshawbestown, MI - Indigenous, Public health
+1. [Part-Time Instructor Pool](https://www.indeed.com/m/viewjob?jk=dd531f88655d9b5f&from=native) - Berkeley, CA - Biological, Chemical, and Physical Sciences 
+1. [Technical Writer/Editor](https://www.indeed.com/m/viewjob?jk=f75c1912fd3f2db6&from=native) - Sarasota, FL
+1. [Manager, Technical Writer]( https://www.indeed.com/m/viewjob?jk=408959ce207db173&from=native) - Vandalia, OH - pharmacology
+1. [Contract Jr. Project Coordinator / Tech Writer / Tech Support](https://www.indeed.com/m/viewjob?jk=abd9204902a2b87a&from=native) - Remote - Clinical Trials
+1. [Technical Writer](https://www.indeed.com/m/viewjob?jk=aa8df6b54e500784&from=native) - Remote - Public Health
+1. [Speechwriter/Editor](https://www.indeed.com/m/viewjob?jk=3ada351c23fe0361&from=native) - Rockville, MD - Biomedical
+1. [Senior Scientific Writer](https://www.indeed.com/m/viewjob?jk=4d58950d7dc94baa&from=native) - Berkeley Heights, NJ
+1. [Sr. Quality Review Specialist - Medical Writer](https://www.indeed.com/m/viewjob?jk=2960215e58d0cb69&from=native) - Foster City, CA - Clinical R&D/Regulatory
+1. [Principal Medical Writer, Regulatory Strategic Writing](https://www.indeed.com/m/viewjob?jk=149fcd152ef32156&from=native) -  Lake County, IL - Neurology & General Medicine
+1. [Technical Writer](https://www.indeed.com/m/viewjob?jk=765cd88fb7e4af72&from=native) - Brooklyn Park, MN - Life sciences
+1. [Editor - Magic Cards & Sets](https://www.indeed.com/m/viewjob?jk=9d2a1fd9de177c00&from=native) - Renton, WA
+1. [Medical Writer](https://www.indeed.com/m/viewjob?jk=4c6adc084773d42e&from=native) - Remote - Biomedical
+1. [Technical Writer III, Temporary](https://www.indeed.com/m/viewjob?jk=724034c6e9764755&from=native) - Washington, DC - Public Health
+1. [Technical Writer, CAR-T](https://www.indeed.com/m/viewjob?jk=f089efb3debe941e&from=native) - Raritan, NJ - Pharmacology/Biologics
+1. [Grant Writer](https://www.indeed.com/m/viewjob?jk=fa16bab36c14de5b&from=native) - Irvine, CA - Pharmacy
+1. [Health Communication Specialist](https://www.indeed.com/m/viewjob?jk=baadc16461c16ee9&from=native) - Atlanta, GA - Contract - Native Hawaiian Org
+1. [Manager, Media Relations and Strategic Communications](https://www.indeed.com/m/viewjob?jk=af02dc1f8ad68fdf&from=native) - Tempe, AZ - Biosciences
+1. [SESDA-OUTREACH COORDINATOR](https://www.indeed.com/m/viewjob?jk=a6a6dfd96b9a287f&from=native) - Greenbelt, MD - Earth Science, Climate Change
+1. [Sr. Manager Clinical Development Process Improvements and Project Management](https://www.indeed.com/m/viewjob?jk=87234e72683c489a&from=native) - United States - Biotech, Pharmaceutical
+1. [Senior Director, MedCom/MedInfo](https://www.indeed.com/m/viewjob?jk=fc6caa07fc0cb97f&from=native) - Mountain View, CA - Oncology, Ophthalmology
+1. [Medical Writer II (REQ1211)](https://www.indeed.com/m/viewjob?jk=508df931ffb27404&from=native) - Frederick, MD - Clinical, Allergy & Infectious Disease
+1. [Technical Writer/Editor](https://www.indeed.com/m/viewjob?jk=404c01aacb295820&from=native) - Grand Forks, ND - Engineering
+1. [Technical Writer](https://www.indeed.com/m/viewjob?jk=a97615a5d3465be1&from=native) - Portland, OR - Chemistry, Biochemistry, Microbiology
+1. [Medical Writer](https://www.indeed.com/m/viewjob?jk=a925a28527b20468&from=native) - Township of Lawrence, NJ - Oncology - $55/hr
+1. [Assoc Dir Medical Writing](https://www.indeed.com/m/viewjob?jk=fe0a9df9e24c7944&from=native) - Boulder, CO
+1. [Medical Writer](https://www.indeed.com/m/viewjob?jk=ac63233c27a5baee&from=native) - Remote
+1. [Senior Writer](https://www.indeed.com/m/viewjob?jk=a83cb4aeceeb5bcc&from=native) - Los Angeles, CA - Medical
+1. [Clinical Training Manager (REQ# 0720-106)](https://www.indeed.com/m/viewjob?jk=5227308140804bed&from=native) - San Jose, CA - Behavioral Sciences
+1. [Content Marketing Specialist & Copywriter](https://www.indeed.com/m/viewjob?jk=285021f3f97e30a9&from=native) - Denver, CO - Plant/Cannabis Science
+1. [Senior Director Medical Writing](https://www.indeed.com/m/viewjob?jk=cac62185139d40d3&from=native) - Cambridge, MA
+1. [Senior Medical Director](https://www.indeed.com/m/viewjob?jk=57e8eeabb8dcf877&from=native) - Stamford, CT
+1. [Academic Coordinator I for the Center for Taiwan Studies](https://www.indeed.com/m/viewjob?jk=70a70aa553ed279d&from=native) - Santa Barbara, CA
+1. [ASST DIR/MULTIMEDIA](https://www.indeed.com/m/viewjob?jk=afd8c2dd5d399df5&from=native) - Mount Pleasant, MI
+1. [MEDICAL DIRECTOR - CONTINUING MEDICAL EDUCATION (CME)](https://www.indeed.com/m/viewjob?jk=09cafe90681065c8&from=native) - Remote
+1. [Teaching Specialist](https://www.indeed.com/m/viewjob?jk=582d6d848f71ef56&from=native) - Minneapolis, MN
+1. [Technical Writer, Process Development](https://www.indeed.com/m/viewjob?jk=8dffd3f99f5c0765&from=native) - Alachua, FL
+1. [Writer/Editor - Senior I - FAA OSES](https://www.indeed.com/m/viewjob?jk=3a00b59d23031857&from=native) - United States - Engineering
+1. [Medical Writer](https://www.indeed.com/m/viewjob?jk=3e1de85e549bd778&from=native) - Westminster, CO - Medical Devices
+1. [Sr Scientist, Clinical Research](https://www.indeed.com/m/viewjob?jk=cd0b0662e84a20f1&from=native) - Plano, TX
+1. [Medical Writing Intern/Junior Medical Writer](https://www.indeed.com/m/viewjob?jk=161691b62eb74ec0&from=native) - California
+1. [Associate Medical Director - Healthcare Advertising](https://www.indeed.com/m/viewjob?jk=dc0a97d2d7aa085c&from=native) - Parsippany, NJ
+1. [Medical Editor/Writer](https://www.indeed.com/m/viewjob?jk=4a8d96f8b8015c23&from=native) - New York, NY; Durham, NC; Atlanta, GA - Cardiology and Diabetes
+1. [Senior Medical Writer - Medical Communications](https://www.indeed.com/m/viewjob?jk=2870921c6b3d797e&from=native) - Remote
+1. [CIRES/NSIDC Technical Writer Professional Research Assistant](https://www.indeed.com/m/viewjob?jk=40cc5fb2f30de353&from=native) - Boulder, CO - Earth Sciences
+1. [Science Writer](https://www.indeed.com/m/viewjob?jk=7e3c9fa4484ce573&from=native) - Chicago, IL - Public Health/Epidemiology
+1. [Product Content Specialist](https://www.indeed.com/m/viewjob?jk=d5f7ffa68375d407&from=native) - Salt Lake City, UT - Nutrition
+1. [Senior Technical Writer, Medical Device](https://www.indeed.com/m/viewjob?jk=59e14a16c4a4a2f6&from=native) - Lexington, MA
+1. [Manager, Medical Writer ASR](https://www.indeed.com/m/viewjob?jk=94972411b618a3d6&from=native) - Jersey City, NJ
+1. [Training Lead (Manager/Sr. Manager)](https://www.indeed.com/m/viewjob?jk=69b9fae5578f6f61&from=native) - Somerset, NJ - Cell/Gene Therapy
+1. [Pharmacokinetics Scientist](https://www.indeed.com/m/viewjob?jk=e1c96a05e14b42d6&from=native) - Princeton, NJ 08540
+1. [Senior Medical Writer](https://www.indeed.com/m/viewjob?jk=a73652b845015304&from=native) - Largo, FL - Remote
+1. [Medical Writer](https://www.indeed.com/m/viewjob?jk=3de5e1c81d459dfd&from=native) - Largo, FL - Remote
+1. [Clin Pharm Group Head Internal Medicine](https://www.indeed.com/m/viewjob?jk=afc2f0d6c277dbcf&from=native) - Cambridge, MA
+1. [Senior Clinical Scientist](https://www.indeed.com/m/viewjob?jk=aac31833e021002c&from=native) - Remote - Oncology
+1. [Quality Assurance Specialist; Change Control Technical Writer](https://www.indeed.com/m/viewjob?jk=43927ea427c81700&from=native) - Fort Washington, PA - Pharmaceutical/Biologics
+	
+  **Science/Journal Editor**
+1. [Freelance Copywriter](https://www.indeed.com/m/viewjob?jk=ba1e6b1f6d858f5b&from=native) - Columbus, OH
+1. [Technical Writer/Editor](https://www.indeed.com/m/viewjob?jk=e1fd9deb6c42f69b&from=native) - Newark, DE - Medical Devices
+1. [Content Production Editor](https://www.indeed.com/m/viewjob?jk=f105e1ef5b8b271b&from=native) - New York, NY
+1. [Content Production Editor](https://www.indeed.com/m/viewjob?jk=ab2bec103b034c50&from=native) - New York, NY
+1. [Jr Copywriter](https://www.indeed.com/m/viewjob?jk=bf4fa37f583acc05&from=native) - Boston, MA
+1. [Technical Writer/Editor/Comms Specialist](https://www.indeed.com/m/viewjob?jk=e50d5c7920e67027&from=native) - Reston, VA
+1. [Medical Editor](https://www.indeed.com/m/viewjob?jk=14bdd719d3372c91&from=native) - New York, NY - Ophthalmology
+1. [Technical Editor / Writer](https://www.indeed.com/m/viewjob?jk=db5f4773627419b6&from=native) - Los Angeles, CA - Environmental
+1. [Assistant Editor](https://www.indeed.com/m/viewjob?jk=642ae8f4676458b6&from=native) - New York, NY
+1. [Editorial Assistant - Sciences](https://www.indeed.com/m/viewjob?jk=3ab5bfc002b5b473&from=native) - Princeton, NJ
+1. [Program Officer - Naval Studies Board](https://www.indeed.com/m/viewjob?jk=e1ee9790688b37e9&from=native) - Washington, DC - Engineering & Physical Sciences
+1. [Technical Writer/Editor](https://www.indeed.com/m/viewjob?jk=08d9fd399ecede84&from=native) - Remote - Mining
+1. [Scientific Research Analyst - Precision Medicine](https://www.indeed.com/m/viewjob?jk=d1b2177fcd13940b&from=native) - Remote
+1. [Assistant Content Editor](https://www.indeed.com/m/viewjob?jk=efa5728966fa9463&from=native) - Melville, NY - Physics
+1. [Technical Writer/Editor](https://www.indeed.com/m/viewjob?jk=404c01aacb295820&from=native) - Grand Forks, ND - Engineering
+1. [Technical Writer and Editor](https://www.indeed.com/m/viewjob?jk=3d390ecf6c55b128&from=native) - Bethesda, MD - Healthcare Management
+1. [Technical Writer/Editor](https://www.indeed.com/m/viewjob?jk=06f1157c0a86fd18&from=native) - Albuquerque, NM
+1. [Digital Content Associate](https://www.indeed.com/m/viewjob?jk=79392f91531f9b8a&from=native) - Washington, DC
+1. [Freelance Sr. Copywriter](https://www.indeed.com/m/viewjob?jk=d7d81e499dbb6749&from=native) - New York, NY
+1. [Marketing Manager](https://www.indeed.com/m/viewjob?jk=3124e44c15cdf967&from=native) - Washington, DC
+1. [Contract Nursing & Health Professions Clinical Content Writer/Editor](https://www.indeed.com/m/viewjob?jk=96bb8ac025bdcb4f&from=native) - Ipswich, MA - Nursing/Clincal 
+1. [Manager, Technical Writer](https://www.indeed.com/m/viewjob?jk=408959ce207db173&from=native) - Vandalia, OH - Pharmaceutical
+1. [Associate Director, Global Medical Affairs - Oncology Publications](https://www.indeed.com/m/viewjob?jk=21a1b177152f280d&from=native) - Basking Ridge, NJ
+1. [Contract Health Editor/Writer](https://www.indeed.com/m/viewjob?jk=f9ce9a6314df0d5a&from=native) - Ipswich, MA
+1. [Production Editor](https://www.indeed.com/m/viewjob?jk=217c8d2d94975cb9&from=native) - Reston, VA - Civil Engineering
+1. [Medical Editor](https://www.indeed.com/m/viewjob?jk=c07e82efbb1e94de&from=native) - Lyndhurst, NJ/Remote
+1. [Principal Tech Editor and Writer](https://www.indeed.com/m/viewjob?jk=505f863b075eff26&from=native) - San Diego, CA - Aeronautics
+1. [Deputy Editor](https://www.indeed.com/m/viewjob?jk=e49e6d2747ce4dba&from=native) - Boston, MA - MD required
+1. [Commissioning Editor, Life Sciences](https://www.indeed.com/m/viewjob?jk=8dfe9029d3641bae&from=native) - Medford, MA
+
+---
+
 July 8:
 
 **Science Writer**
