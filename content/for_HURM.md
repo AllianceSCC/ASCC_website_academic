@@ -15,7 +15,7 @@ header:
 To _make science accessible_, Alliance SciComm & Consulting dedicates 10% of our work week to help members of marginalized trainees succeed. **For free.**
 
 
-If you are a woman, think you may belong to a marginalized group, and need help with technical writing, grant proposals, or fellowship applications, use the form below to check your eligiblity and get your free consultation!
+If you are a woman, think you may belong to a marginalized group, and need help with technical writing, grant proposals, or fellowship applications, use the form below to check your eligibility and start your editing service!
 
 [Open Eligibility Form in new tab](https://docs.google.com/forms/d/e/1FAIpQLSeUoS1gvwR--5BmdjWkmQLFac4THX21KXTJLZ26RosvhGRQ2Q/viewform?usp=sf_link)
 

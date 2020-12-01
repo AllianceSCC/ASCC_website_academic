@@ -37,18 +37,18 @@ hero_media = "full_logo.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://docs.google.com/forms/d/e/1FAIpQLSdoj5QbHZk3iYhxSnj5PtyJyEoHn882cL-WA45Sp-wBIoB4Aw/viewform?usp=sf_link"
-  label = "Submit your draft"
+  url = "writing_services"
+  label = "Get started"
   icon_pack = "far"
   icon = "edit"
   
-[cta_alt]
-  url = "writing_services"
-  label = "More Services"
+#[cta_alt]
+#  url = "writing_services"
+#  label = "Writing services"
 
 # Note. An optional note to show underneath the links.
  [cta_note]
   label = '<a href="inclusion">I need equity and inclusion workshops and/or consulting<!-- V --></a>'
 +++
 
-Are you a scientist looking for help with a manuscript or grant proposal? 
+Are you a scientist looking for help with a manuscript, grant proposal or presentation? 
