@@ -13,6 +13,5 @@ header:
   caption: ""
   image: ""
 ---
-***
-[Get the Job Board](https://view.flodesk.com/pages/5eb9574431cbee002611e094) delivered straight to your inbox.
-***
+
+Our job board is down right now. Check back later!
