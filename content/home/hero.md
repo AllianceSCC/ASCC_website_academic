@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Make Science Accessible"
+title = "Better Writing. In Reach."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "full_logo.png"
@@ -37,8 +37,8 @@ hero_media = "full_logo.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "writing_services"
-  label = "Get started"
+  url = "better_writing"
+  label = "Learn more"
   icon_pack = "far"
   icon = "edit"
   
@@ -48,7 +48,7 @@ hero_media = "full_logo.png"
 
 # Note. An optional note to show underneath the links.
  [cta_note]
-  label = '<a href="inclusion">I need equity and inclusion workshops and/or consulting<!-- V --></a>'
+  label = '<a href="writing_services" > I am interested in another type of writing help.<!-- V --></a>'
 +++
 
-Are you a scientist looking for help with a manuscript, grant proposal or presentation? 
+Now available from ASCC. Develop your professional writing skills with one-on-one coaching.
