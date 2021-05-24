@@ -1,5 +1,5 @@
 ---
-title: SciComm Job Board
+title: Recent ASCC Publications
 
 # View.
 #   1 = List
@@ -14,4 +14,8 @@ header:
   image: ""
 ---
 
-Our job board is down right now. Check back later!
+***
+
+[Full list]("https://orcid.org/0000-0001-8481-1457") of publications authored or co-authored by Dr. Hagan.
+
+***

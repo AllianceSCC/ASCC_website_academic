@@ -24,7 +24,7 @@ header:
 
 ### Professional Development:
 
-* One-on-one writing coaching --- Get help demystifying the writing process to get that first draft faster and/or a better second draft. Writing coaching with ASCC includes four, one-hour sessions, a personalized coaching plan, and pre- and post-assessments to track your growth. [Learn more...]( {{< relref "better_writing.md" >}} ).
+* One-on-one writing coaching --- Get help demystifying the writing process to get that first draft faster and/or a better second draft. Writing coaching with ASCC includes four, one-hour sessions, a personalized coaching plan, and pre- and post-assessments to track your growth. [Learn more...]( {{< relref "better_writing" >}} ).
 
 ### Structure/Content Revision:		
 Early in the writing/brainstorming process and need help with deciding what should be included, the organization of an early draft, or can't _quite_ put your finger on what's missing? Structure and content revisions come in at the beginning of your writing process. We can help you brainstorm or outline that early draft before it exists and then suggest revisions to your writing to identify missing information or help with the overall organization. **Use content and structure revising to ensure concise writing with all the information your readers need, and nothing they don't.**
