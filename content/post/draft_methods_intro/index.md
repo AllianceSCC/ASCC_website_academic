@@ -48,25 +48,25 @@ I encourage you to experiment with them, find what works for you, and then tell 
 
 **Drafting Methods:**
 
-+ The Warm Up
++ [The Warm Up]({{< relref "post/draft_methods_warm_up" >}}) -- Coming Soon
 
-+ The Method
++ [The Method]({{< relref "post/draft_methods_method" >}}) -- Coming Soon
 
-+ The Freewrite
++ [The Freewrite]({{< relref "post/draft_methods_freewrite" >}}) -- Coming Soon
 
-+ The Outline
++ [The Outline]({{< relref "post/draft_methods_outline" >}}) -- Coming Soon
 
-+ Refinery
++ [Refinery]({{< relref "post/draft_methods_refinery" >}}) -- Coming Soon
 
-+ The Jigsaw
++ [The Jigsaw]({{< relref "post/draft_methods_jigsaw" >}}) -- Coming Soon
 
-+ The Spurt
++ [The Spurt]({{< relref "post/draft_methods_spurt" >}}) -- Coming Soon
 
-+ The Incubation
++ [The Incubation]({{< relref "post/draft_methods_incubation" >}}) -- Coming Soon
 
-+ Sessional
++ [Sessional]({{< relref "post/draft_methods_sessional" >}}) -- Coming Soon
 
-+ The Set Up
++ [The Set Up]({{< relref "post/draft_methods_set_up" >}}) -- Coming Soon
 
-+ Tips and Tricks
++ [Tips and Tricks]({{< relref "post/draft_methods_tips" >}}) -- Coming Soon
 
