@@ -46,27 +46,28 @@ I encourage you to experiment with them, find what works for you, and then tell 
 
 ------
 
-**Drafting Methods:**
+**Drafting Techniques and Methods:**
 
-+ [The Warm Up]({{< relref "post/draft_methods_warm_up" >}}) -- Coming Soon
++ [The Warm Up]({{< relref "post/draft_methods_warm_up" >}})
 
-+ [The Method]({{< relref "post/draft_methods_method" >}}) -- Coming Soon
+<!--+ [The Method]({{< relref "post/draft_methods_method" >}}) -->
 
-+ [The Freewrite]({{< relref "post/draft_methods_freewrite" >}}) -- Coming Soon
+<!--+ [The Freewrite]({{< relref "post/draft_methods_freewrite" >}}) -->
 
-+ [The Outline]({{< relref "post/draft_methods_outline" >}}) -- Coming Soon
+<!--+ [The Outline]({{< relref "post/draft_methods_outline" >}}) -->
 
-+ [Refinery]({{< relref "post/draft_methods_refinery" >}}) -- Coming Soon
+<!--+ [Refinery]({{< relref "post/draft_methods_refinery" >}}) -->
 
-+ [The Jigsaw]({{< relref "post/draft_methods_jigsaw" >}}) -- Coming Soon
+<!--+ [The Jigsaw]({{< relref "post/draft_methods_jigsaw" >}}) -->
 
-+ [The Spurt]({{< relref "post/draft_methods_spurt" >}}) -- Coming Soon
+<!--+ [The Spurt]({{< relref "post/draft_methods_spurt" >}}) -->
 
-+ [The Incubation]({{< relref "post/draft_methods_incubation" >}}) -- Coming Soon
+<!--+ [The Incubation]({{< relref "post/draft_methods_incubation" >}}) -->
 
-+ [Sessional]({{< relref "post/draft_methods_sessional" >}}) -- Coming Soon
+<!--+ [Sessional]({{< relref "post/draft_methods_sessional" >}}) -->
 
-+ [The Set Up]({{< relref "post/draft_methods_set_up" >}}) -- Coming Soon
+<!--+ [The Set Up]({{< relref "post/draft_methods_set_up" >}}) -->
 
-+ [Tips and Tricks]({{< relref "post/draft_methods_tips" >}}) -- Coming Soon
+<!--+ [Tips and Tricks]({{< relref "post/draft_methods_tips" >}}) -->
+
 
