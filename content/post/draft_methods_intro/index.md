@@ -52,7 +52,7 @@ I encourage you to experiment with them, find what works for you, and then tell 
 
 + [The Method]({{< relref "post/draft_methods_method" >}})
 
-<!--+ [The Freewrite]({{< relref "post/draft_methods_freewrite" >}}) -->
++ [The Freewrite]({{< relref "post/draft_methods_freewrite" >}})
 
 <!--+ [The Outline]({{< relref "post/draft_methods_outline" >}}) -->
 
